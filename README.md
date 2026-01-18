@@ -1,6 +1,8 @@
 # Angry Birds with Physical Quantities
 A game inspired by Angry Birds in which you can see the bird's physical quantities such as range, launch angle, launch velocity etc.
 
+More information will be added later on.
+
 How to run:
 
 - Download the zip file "angry_birds_physical_quantities.zip".
